@@ -1,0 +1,7 @@
+client1: hello
+client2: ohh hello to you too!
+client2: how have you been
+client1: all good, u?
+client2: all good
+client2: bye
+client1: bye
